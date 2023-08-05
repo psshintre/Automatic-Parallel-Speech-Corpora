@@ -1,0 +1,3 @@
+openai-whisper
+
+llvmlite, numba, future, ffmpeg-python, nvidia-cusparse-cu11, nvidia-nvtx-cu11, nvidia-cuda-nvrtc-cu11, nvidia-cuda-cupti-cu11, nvidia-curand-cu11, nvidia-cublas-cu11, nvidia-cudnn-cu11, mpmath, sympy, nvidia-nccl-cu11, nvidia-cusolver-cu11, nvidia-cuda-runtime-cu11, nvidia-cufft-cu11, torch, lit, cmake, triton, charset-normalizer, requests, tiktoken, openai-whisper, auto-subtitle
